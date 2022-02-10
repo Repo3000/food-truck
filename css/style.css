@@ -1,10 +1,12 @@
 body {
     margin: 5em;
     padding: 10px;
+    background-color: aqua;
   }
   
   section {
     text-align: center;
+    background-color: aquamarine;
   }
   
   .column {
