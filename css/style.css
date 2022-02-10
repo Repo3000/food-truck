@@ -1,0 +1,26 @@
+body {
+    margin: 5em;
+    padding: 10px;
+  }
+  
+  section {
+    text-align: center;
+  }
+  
+  .column {
+    width: 300px;
+   display: flex;
+   flex-grow: 3;
+  
+  }
+  
+  #container{
+    
+    align-items: center;
+    display: flex;
+  }
+  #head-nav {
+  
+      display: flex;
+      justify-content: space-evenly;
+  }
